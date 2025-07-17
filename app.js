@@ -220,7 +220,7 @@ Complete the exercise in the space below:
 1. create a function named basicCalculatot with 3 arguments (David, I honestly thought I had to put
 1, 2 insead of num1 num 2, and subtract instead of operation. I couldn't figure it out so I used GPT at the end.)
 2. So operation is either subtract, add, multiply, or divide
-3. If on the operations with two numbers and return the result of each operation
+3. 'If' on the operations with two numbers and return the result of each operation
 4. console.log it
 */
 
