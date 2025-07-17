@@ -7,6 +7,15 @@ If they're equal, return either one.
 
 Exercise 1 has been completed for you:
 */
+/*
+function maxOfTwoNumbers(num1, num2){
+  if num1 > num2
+  return num1;
+} else {
+  return num2;
+}
+console.log(macOfTwoNumbers (10, 5))
+*/
 
 const maxOfTwoNumbers = (x, y) => {
   if (x >= y) {
